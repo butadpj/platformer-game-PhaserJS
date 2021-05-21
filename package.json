@@ -1,0 +1,19 @@
+{
+  "name": "platformer_game",
+  "version": "1.0.0",
+  "description": "1. npm init",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "webpack --mode development --watch",
+    "serve": "http-server public/ -p 8000 -c-1",
+    "build": "webpack --mode production"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "phaser": "^3.54.0",
+    "webpack": "^5.37.0",
+    "webpack-cli": "^4.7.0"
+  }
+}
