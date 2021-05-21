@@ -5,11 +5,13 @@ A simple platformer game made with PhaserJS
 
 ## Installation
 
-1. Make sure you have **Node JS** and **VS Code** installed on your computer.
+1. Make sure you have **Node JS**, **VS Code**, and **Git** installed on your computer.
 
    - You can download and install Node JS from [here](https://nodejs.org/en/)
 
    - You can download and install VS Code from [here](https://code.visualstudio.com/download)
+
+   - You can download and install Git from [here](https://git-scm.com/downloads)
 
 2. Create a new folder in your computer where you want to contain the game (Project's file) and open it with VS Code
 
