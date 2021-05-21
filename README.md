@@ -13,13 +13,13 @@ A simple platformer game made with PhaserJS
 
 2. Create a new folder in your computer where you want to contain the game (Project's file) and open it with VS Code
 
-3. Open up the Terminal in your VS Code, and clone the project in your computer
+3. Open up the Terminal in your VS Code, and clone the project in your computer using the command below:
 
    ```
    git clone https://github.com/butadpj/platformer-game-PhaserJS.git .
    ```
 
-4. Install the project dependencies (Webpack & Webpack CLI, http-server, and PhaserJS)
+4. Install the project dependencies (Webpack & Webpack CLI, http-server, and PhaserJS) using the command below:
 
    ```
    npm install
