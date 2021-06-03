@@ -1,7 +1,7 @@
 import Phaser from "phaser";
 
-import HelloWorld from "./scenes/HelloWorld";
 import Game from "./scenes/Game";
+import LoadingScreen from "./scenes/LoadingSreen";
 
 const config = {
   type: Phaser.AUTO,
@@ -14,7 +14,8 @@ const config = {
       debug: false,
     },
   },
-  scene: [Game],
+
+  scene: [LoadingScreen, Game],
 
   //   backgroundColor: "#000000",
 };
